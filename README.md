@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **OwnPG**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://vivek-anil-kalal.github.io/Portfolio.github.io/](https://vivek-anil-kalal.github.io/Portfolio.github.io/)
 
