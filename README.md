@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vivekkalal20@gmail.com**
 
-- ⚡ Fun fact **My Humour**
+- ⚡ Fun fact **My Humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
