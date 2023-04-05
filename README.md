@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Anil Kalal</h1>
 <h3 align="center">A passionate Full Stack developer(MERN) and Coding enthusiast from India</h3>
 
-<p align="left"> <img src="https://imgs.search.brave.com/NKrLaPUdad0EZChulv7A61-0Dt10N86e2-oZ-I80SUU/rs:fit:1200:900:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDg5MDM4/OTMuanBn" alt="vivek-anil-kalal" style="color : white"/> </p>
+<p align="left"> <img src="https://imgs.search.brave.com/0joDXtEfF7lpOUMHvO8gofPHJ-Z7BErqE2NS0CkNeFc/rs:fit:750:400:1/g:ce/aHR0cHM6Ly90aGVu/aW5laGVydHouY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA2L2Z1bGwtc3Rh/Y2stZGV2ZWxvcG1l/bnQuZ2lm.gif" alt="vivek-anil-kalal" style="color : white"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-anil-kalal" alt="vivek-anil-kalal" /></a> </p>
 
