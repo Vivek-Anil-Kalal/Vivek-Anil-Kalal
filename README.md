@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vivek-anil-kalal.github.io/Portfolio.github.io/](https://vivek-anil-kalal.github.io/Portfolio.github.io/)
 
-- 💬 Ask me about **Core Java , Advanced Java , GUI .**
+- 💬 Ask me about **Core Java , Advanced Java , GUI , REACT , NODE .**
 
 - 📫 How to reach me **vivekkalal20@gmail.com**
 
