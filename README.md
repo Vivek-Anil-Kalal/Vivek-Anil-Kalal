@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek Anil Kalal</h1>
+<h1 align="center">Hi 👋, I'm Vivek Kalal</h1>
 <h3 align="center">A Passionate Full Stack Developer (MERN) And Coding Enthusiast From India</h3>
 
 <p align="left"> <img src="https://imgs.search.brave.com/0joDXtEfF7lpOUMHvO8gofPHJ-Z7BErqE2NS0CkNeFc/rs:fit:750:400:1/g:ce/aHR0cHM6Ly90aGVu/aW5laGVydHouY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA2L2Z1bGwtc3Rh/Y2stZGV2ZWxvcG1l/bnQuZ2lm.gif" alt="vivek-anil-kalal" style="color : white"/> </p>
